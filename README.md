@@ -18,5 +18,5 @@ In conclusion, the objectives are met where three algorithms were implemnted to 
 
 So the final seating arrangemnet was chosen to be the one that UCS obtained, which is the minumum conflict between seats. Folwoing is it's visulization:
 <div align="center" >
-<img src="https://github.com/sondosaabed/Round-Table-Seating-Arrangement/assets/65151701/48d46a7e-43d8-441d-9159-901aea7c3cd9" height="300">
+<img src="https://github.com/sondosaabed/Round-Table-Seating-Arrangement/assets/65151701/48d46a7e-43d8-441d-9159-901aea7c3cd9" height="500">
 </div>
